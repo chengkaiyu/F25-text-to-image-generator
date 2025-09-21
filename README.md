@@ -2,17 +2,21 @@
 
 ## Fork and clone this repository
 
-On this page, click the button that says "Fork." This will create an exact replica of this repository.
+On this page, click the button that says "Fork" and click "Create Fork." This will create an exact replica of this repository on your github account.
 
-On the forked repository, click the green button that says "Code."
+Go to the forked repository, and click the green button that says "Code."
 
 Copy the first command that pops up under the HTML tab.
 
-Go to terminal and cd into the repository you want to put your project in.
+Go to terminal in your computer and cd into where you want to put your project in.
 
-Paste in the command you copied.
+Run the following command:
 
-You've successfully cloned your project! Now open the cloned repo in your editor of choice.
+```
+git clone <link_you_copied>
+```
+
+You've successfully cloned your project! Now open your project in your editor of choice.
 
 ## Set up your virtual environment
 
