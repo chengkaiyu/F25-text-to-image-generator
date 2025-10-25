@@ -2,4 +2,9 @@
 __pycache__/
 venv/
 data/
+output/
+runs/
 vae_model_mnist.pth
+celeba_cvae_model.pth
+celeba_hq_clip_embeddings.pt
+cvae_model_mnist.pth
